@@ -1,0 +1,34 @@
+cancer	Cancer_Type
+BRCA	Breast
+GBM	CNS
+LGG	CNS
+COAD	Core GI
+ESCA	Core GI
+READ	Core GI
+STAD	Core GI
+CHOL	Developmental GI tract
+LIHC	Developmental GI tract
+PAAD	Developmental GI tract
+ACC	Endocrine
+PCPG	Endocrine
+THCA	Endocrine
+UVM	Eye
+CESC	Gynecologic
+OV	Gynecologic
+UCEC	Gynecologic
+UCS	Gynecologic
+HNSC	Head & Neck
+DLBC	Hem./Lymph.
+LAML	Hem./Lymph.
+THYM	Hem./Lymph.
+SKCM	Skin
+SARC	Soft Tissue
+LUAD	Thoracic
+LUSC	Thoracic
+MESO	Thoracic
+BLCA	Urologic
+KICH	Urologic
+KIRC	Urologic
+KIRP	Urologic
+PRAD	Urologic
+TGCT	Urologic

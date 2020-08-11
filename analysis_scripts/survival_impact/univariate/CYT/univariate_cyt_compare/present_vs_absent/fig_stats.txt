@@ -1,0 +1,12 @@
+A03:early ESCA present 56 absent: 42	A03: early stage ESCA	A03 present group: mean CYT = 6.49	A03 absent group: mean CYT = 4.01	A03 present vs absent: FC = 1.62, p value = 0.030	
+B44:advanced READ present 24 absent: 21	B44: advanced stage READ	B44 present group: mean CYT = 4.85	B44 absent group: mean CYT = 3.67	B44 present vs absent: FC = 1.32, p value = 0.174	
+A24:early STAD present 56 absent: 123	A24: early stage STAD	A24 present group: mean CYT = 7.02	A24 absent group: mean CYT = 7.05	A24 present vs absent: FC = 1.00, p value = 0.490	
+B27:advanced BRCA present 69 absent: 204	B27: advanced stage BRCA	B27 present group: mean CYT = 5.84	B27 absent group: mean CYT = 5.22	B27 present vs absent: FC = 1.12, p value = 0.240	
+B44:early SKCM present 33 absent: 36	B44: early stage SKCM	B44 present group: mean CYT = 8.09	B44 absent group: mean CYT = 4.78	B44 present vs absent: FC = 1.69, p value = 0.057	
+B44:advanced OV present 135 absent: 151	B44: advanced stage OV	B44 present group: mean CYT = 2.59	B44 absent group: mean CYT = 2.59	B44 present vs absent: FC = 1.00, p value = 0.497	
+A02:early SKCM present 37 absent: 32	A02: early stage SKCM	A02 present group: mean CYT = 5.43	A02 absent group: mean CYT = 7.44	A02 present vs absent: FC = 0.73, p value = 0.171	
+B44:early BRCA present 336 absent: 421	B44: early stage BRCA	B44 present group: mean CYT = 6.12	B44 absent group: mean CYT = 6.05	B44 present vs absent: FC = 1.01, p value = 0.450	
+B58:early PAAD present 17 absent: 150	B58: early stage PAAD	B58 present group: mean CYT = 6.15	B58 absent group: mean CYT = 6.10	B58 present vs absent: FC = 1.01, p value = 0.484	
+B62:advanced LIHC present 33 absent: 56	B62: advanced stage LIHC	B62 present group: mean CYT = 2.33	B62 absent group: mean CYT = 4.81	B62 present vs absent: FC = 0.49, p value = 0.033	
+B08:early UCEC present 21 absent: 101	B08: early stage UCEC	B08 present group: mean CYT = 5.21	B08 absent group: mean CYT = 7.35	B08 present vs absent: FC = 0.71, p value = 0.209	
+B08:early HNSC present 27 absent: 81	B08: early stage HNSC	B08 present group: mean CYT = 13.51	B08 absent group: mean CYT = 12.00	B08 present vs absent: FC = 1.13, p value = 0.279	

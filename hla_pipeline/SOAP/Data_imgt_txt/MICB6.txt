@@ -1,0 +1,73 @@
+cDNA                     1030       1040       1050       1060       1070       1080       1090       1100       1110       1120 
+ MICB*001               AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*002:01:01         AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*002:01:02         AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*003               AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*004:01:01         AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*004:01:02         AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*005:01            ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*005:02:01         AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*005:02:02         AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*005:02:03         AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*005:02:04         AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*005:03            AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*005:04            ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*005:05            ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*005:06            AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*006               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*007               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*008               AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*009N              ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*010               AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*011               AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*012               AGCTTG TGAGCCTGCA GGTCCTGGAT CAACACCCAG TTGGGACAGG AGACCACAGG GATGCAGCAC AGCTGGGATT TCAGCCTCTG ATGTCAGCTA 
+ MICB*013               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*014               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*015               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*016               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*018               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*019               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*020               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*021N              ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*022               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*023               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*024               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*025               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ MICB*026               ****** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ 
+ cDNA                     1130       1140       1150 
+ MICB*001           CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*002:01:01     CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*002:01:02     CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*003           CTGGGTCCAC TGGTTCCACT GAGGGCACCT AG 
+ MICB*004:01:01     CTGGGTCCAC TGGTTCCACT GAGGGCACCT AG 
+ MICB*004:01:02     CTGGGTCCAC TGGTTCCACT GAGGGCACCT AG 
+ MICB*005:01        ********** ********** ********** ** 
+ MICB*005:02:01     CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*005:02:02     CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*005:02:03     CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*005:02:04     CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*005:03        CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*005:04        ********** ********** ********** ** 
+ MICB*005:05        ********** ********** ********** ** 
+ MICB*005:06        CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*006           ********** ********** ********** ** 
+ MICB*007           ********** ********** ********** ** 
+ MICB*008           CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*009N          ********** ********** ********** ** 
+ MICB*010           CTGGGTCCAC TGGTTCCACT GAGGGCACCT AG 
+ MICB*011           CTGGGTCCAC TGGTTCCACT GAGGGCACCT AG 
+ MICB*012           CTGGGTCCAC TGGTTCCACT GAGGGCGCCT AG 
+ MICB*013           ********** ********** ********** ** 
+ MICB*014           ********** ********** ********** ** 
+ MICB*015           ********** ********** ********** ** 
+ MICB*016           ********** ********** ********** ** 
+ MICB*018           ********** ********** ********** ** 
+ MICB*019           ********** ********** ********** ** 
+ MICB*020           ********** ********** ********** ** 
+ MICB*021N          ********** ********** ********** ** 
+ MICB*022           ********** ********** ********** ** 
+ MICB*023           ********** ********** ********** ** 
+ MICB*024           ********** ********** ********** ** 
+ MICB*025           ********** ********** ********** ** 
+ MICB*026           ********** ********** ********** **

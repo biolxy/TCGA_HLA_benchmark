@@ -1,0 +1,14 @@
+cDNA                      740        750        760        770 
+ DMB*01:01:01:01             G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 
+ DMB*01:01:01:02             G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 
+ DMB*01:01:01:03             G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 
+ DMB*01:01:01:04             G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 
+ DMB*01:02                   * ********** ********** ********** ***** 
+ DMB*01:03:01:01             G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 
+ DMB*01:03:01:02             G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 
+ DMB*01:03:01:03             G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 
+ DMB*01:03:01:04             G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 
+ DMB*01:04                   * ********** ********** ********** ***** 
+ DMB*01:05                   * ********** ********** ********** ***** 
+ DMB*01:06                   * ********** ********** ********** ***** 
+ DMB*01:07                   G TTACACTCCT CTTCCTGGGT CCAATTATTC AGAAG 

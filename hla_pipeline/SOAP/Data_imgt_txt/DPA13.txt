@@ -1,0 +1,107 @@
+cDNA                      350        360        370        380        390        400        410        420        430        440 
+ DPA1*01:03:01:01         ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAAGTTCT TCCCACCAGT 
+ DPA1*01:03:01:02         ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAAGTTCT TCCCACCAGT 
+ DPA1*01:03:01:03         ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAAGTTCT TCCCACCAGT 
+ DPA1*01:03:01:04         ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAAGTTCT TCCCACCAGT 
+ DPA1*01:03:01:05         ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAAGTTCT TCCCACCAGT 
+ DPA1*01:03:02            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:03:03            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:03:04            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:04               ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAAGTTCT TCCCACCAGT 
+ DPA1*01:05               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:06:01            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:06:02            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:07               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:08               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:09               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:10               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:11               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:01            ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAGGTTCT TCCCACCAGT 
+ DPA1*02:01:02            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:03            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:04            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:05            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:06            ATCC ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:07            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:02:01            ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAGGTTCT TCCCACCAGT 
+ DPA1*02:02:02            ATCC CCCTGAGGTG ACGGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAGGTTCT TCCCACCAGT 
+ DPA1*02:02:03            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:02:04            **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:03               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:04               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*03:01               ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGCC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAAGTTCT TCCCACCAGT 
+ DPA1*03:02               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*03:03               **** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*04:01               ATCC CCCTGAGGTG ACCGTGTTTC CCAAGGAGGC TGTGGAGCTG GGCCAGCCCA ACACCCTCAT CTGCCACATT GACAAGTTCT TCCCACCAGT 
+ 
+ cDNA                      450        460        470        480        490        500        510        520        530        540 
+ DPA1*01:03:01:01   GCTCAACGTC ACGTGGCTGT GCAACGGGGA GCTGGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*01:03:01:02   GCTCAACGTC ACGTGGCTGT GCAACGGGGA GCTGGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*01:03:01:03   GCTCAACGTC ACGTGGCTGT GCAACGGGGA GCTGGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*01:03:01:04   GCTCAACGTC ACGTGGCTGT GCAACGGGGA GCTGGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*01:03:01:05   GCTCAACGTC ACGTGGCTGT GCAACGGGGA GCTGGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*01:03:02      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:03:03      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:03:04      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:04         GCTCAACGTC ACGTGGCTGT GCAACGGGGA GCTGGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*01:05         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:06:01      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:06:02      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:07         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:08         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:09         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:10         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*01:11         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:01      GCTCAACGTC ACATGGCTGT GCAATGGGGA GCCAGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*02:01:02      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:03      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:04      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:05      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:06      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:01:07      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:02:01      GCTCAACGTC ACATGGCTGT GCAATGGGGA GCCAGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*02:02:02      GCTCAATGTC ACATGGCTGT GCAATGGGGA GCCGGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*02:02:03      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:02:04      ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:03         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*02:04         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*03:01         GCTCAACGTC ACGTGGCTGT GCAACGGGGA GCTGGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ DPA1*03:02         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*03:03         ********** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ DPA1*04:01         GCTCAACGTC ACATGGCTGT GCAATGGGGA GCCAGTCACT GAGGGTGTCG CTGAGAGCCT CTTCCTGCCC AGAACAGATT ACAGCTTCCA CAAGTTCCAT 
+ 
+ cDNA                      550        560        570        580        590        600        610        620 
+ DPA1*01:03:01:01   TACCTGACCT TTGTGCCCTC AGCAGAGGAC TTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*01:03:01:02   TACCTGACCT TTGTGCCCTC AGCAGAGGAC TTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*01:03:01:03   TACCTGACCT TTGTGCCCTC AGCAGAGGAC TTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*01:03:01:04   TACCTGACCT TTGTGCCCTC AGCAGAGGAC TTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*01:03:01:05   TACCTGACCT TTGTGCCCTC AGCAGAGGAC TTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*01:03:02      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:03:03      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:03:04      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:04         TACCTGACCT TTGTGCCCTC AGCAGAGGAC TTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*01:05         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:06:01      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:06:02      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:07         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:08         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:09         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:10         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*01:11         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:01:01      TACCTGACCT TTGTGCCCTC AGCAGAGGAC GTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*02:01:02      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:01:03      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:01:04      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:01:05      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:01:06      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:01:07      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:02:01      TACCTGACCT TTGTACCCTC AGCAGAGGAC GTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*02:02:02      TACCTGACCT TTGTGCCCTC AGCAGAGGAC GTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*02:02:03      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:02:04      ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:03         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*02:04         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*03:01         TACCTGACCT TTGTGCCCTC AGCAGAGGAC TTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG 
+ DPA1*03:02         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*03:03         ********** ********** ********** ********** ********** ********** ********** ********** ******** 
+ DPA1*04:01         TACCTGACCT TTGTGCCCTC AGCAGAGGAC GTCTATGACT GCAGGGTGGA GCACTGGGGC TTGGACCAGC CGCTCCTCAA GCACTGGG

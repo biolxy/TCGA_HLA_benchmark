@@ -1,0 +1,12 @@
+variable	Condition	neg	pos	neg_death	pos_death	HR	CI_Low	CI_High	pvalue	FDR_BH
+A03	early ESCA	43	58	19	13	0.3	0.14	0.64	0.002	0.018
+B44	advanced READ	34	40	12	5	0.35	0.12	0.99	0.049	0.245
+A24	early STAD
+B27	advanced BRCA
+B44_A02	early SKCM	124	109	66	42	0.66	0.45	0.98	0.039	0.215
+B44	advanced OV
+B44	early BRCA
+B58	early PAAD
+B62	advanced LIHC	57	33	29	18	2.01	1.08	3.72	0.027	0.296
+B08	early UCEC
+B08	early HNSC	85	26	20	15	3.16	1.58	6.31	0.001	0.012

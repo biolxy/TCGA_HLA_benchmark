@@ -1,0 +1,103 @@
+cDNA                      900        910        920        930        940        950        960        970        980        990 
+ G*01:01:01:01           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:01:02           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:01:03           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:01:04           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:01:05           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:01:06           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:02:01           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GTCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:02:02           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GTCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:03:01           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:03:02           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:03:03           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:04              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:05              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:06              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:07              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:08              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:09              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:11              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:12              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:13              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:14              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:15              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:16              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:17              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:18              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:19              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:01:20              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GTCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:01:21              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:02                 AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:03:01:01           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:03:01:02           AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:04:01              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:04:02              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:04:03              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:04:04              AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:04:05              ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:05N                AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GTCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:06                 AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GTCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:07                 AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:08                 AGCAG TCTTCCCTGC CCACCATCCC CATCATGGGT ATCGTTGCTG GCCTGGTTGT CCTTGCAGCT GTAGTCACTG GAGCTGCGGT CGCTGCTGTG 
+ G*01:09                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:10                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:11                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:12                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:13N                ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:14                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:15                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:16                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:17                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ G*01:18                 ***** ********** ********** ********** ********** ********** ********** ********** ********** ********** 
+ 
+ cDNA                     1000       1010 
+ G*01:01:01:01      CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:01:02      CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:01:03      CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:01:04      CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:01:05      CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:01:06      CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:02:01      CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:01:02:02      CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:01:03:01      CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:01:03:02      CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:01:03:03      CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:01:04         ********** ********** ** 
+ G*01:01:05         CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:06         CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:01:07         ********** ********** ** 
+ G*01:01:08         CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:09         CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:01:11         ********** ********** ** 
+ G*01:01:12         CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:01:13         ********** ********** ** 
+ G*01:01:14         ********** ********** ** 
+ G*01:01:15         ********** ********** ** 
+ G*01:01:16         ********** ********** ** 
+ G*01:01:17         ********** ********** ** 
+ G*01:01:18         ********** ********** ** 
+ G*01:01:19         ********** ********** ** 
+ G*01:01:20         CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:01:21         CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:02            CTGTGGAGAA AGAAGAGCTC AG 
+ G*01:03:01:01      CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:03:01:02      CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:04:01         CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:04:02         ********** ********** ** 
+ G*01:04:03         CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:04:04         CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:04:05         ********** ********** ** 
+ G*01:05N           CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:06            CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:07            CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:08            CTGTGGAGGA AGAAGAGCTC AG 
+ G*01:09            ********** ********** ** 
+ G*01:10            ********** ********** ** 
+ G*01:11            ********** ********** ** 
+ G*01:12            ********** ********** ** 
+ G*01:13N           ********** ********** ** 
+ G*01:14            ********** ********** ** 
+ G*01:15            ********** ********** ** 
+ G*01:16            ********** ********** ** 
+ G*01:17            ********** ********** ** 
+ G*01:18            ********** ********** **

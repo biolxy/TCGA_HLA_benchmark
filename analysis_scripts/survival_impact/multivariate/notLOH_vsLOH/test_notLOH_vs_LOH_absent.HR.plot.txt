@@ -1,0 +1,14 @@
+variable	Condition
+A24	early STAD
+A02_B44	early SKCM
+A02_A03	early LIHC
+A01_B08	early HNSC
+A03_B08	early CESC
+A02	advanced UCEC
+B08	early UCEC
+A03	advanced READ
+A24_B44	advanced OV
+B44	early BRCA
+A02	advanced MESO
+A03	advanced KIRP
+B07	advanced CESC
