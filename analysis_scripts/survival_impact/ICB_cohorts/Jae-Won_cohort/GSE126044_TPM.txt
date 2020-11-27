@@ -1,0 +1,17 @@
+ID	Sentrix_ID	Sentrix_Position	Age	Sex	Histology	PD-L1 expression	Responsiveness	Immunotherapy drug	Progression-free survival	Overall survival	Group	Best response	OS_event	PFS_event	gene_id	ENSG00000100453.8_GZMB	ENSG00000145649.7_GZMA	ENSG00000153563.11_CD8A	ENSG00000172116.17_CD8B	ENSG00000180644.6_PRF1	GSMID	RNAID	RNAID	Immune cytolytic activity (CYT)	CYT_group
+Dis_02	2.01E+11	R03C01	76	M	Squamous cell carcinoma	Yes	Responder	Nivolumab	13.8	14.1	DCB	PR	1	1	SRR8526718_TPM	9.36	10.04	9.89	3.29	7.03	GSM3589674	RNA-seq_Dis_02	Dis_02	8.411420807	CYT-High group
+Dis_10	2.02E+11	R06C01	75	M	Squamous cell carcinoma	Yes	Responder	Nivolumab	14.2	14.2	DCB	PR	1	1	SRR8526726_TPM	51.41	3.95	10.62	2.39	29.1	GSM3589682	RNA-seq_Dis_10	Dis_10	10.73664752	CYT-High group
+Dis_17	2.01E+11	R03C01	64	M	Squamous cell carcinoma	No	Responder	Nivolumab	7.3	12.9	DCB	SD	1	1	SRR8526724_TPM	8.47	18.71	26.93	5.6	12.71	GSM3589680	RNA-seq_Dis_17	Dis_17	15.43108551	CYT-High group
+Dis_04	2.01E+11	R07C01	55	F	Adenocarcinoma	Yes	Responder	Nivolumab	13.5	18.7	DCB	PR	1	1	SRR8526722_TPM	9.82	20.76	21.24	2.7	12.02	GSM3589678	RNA-seq_Dis_04	Dis_04	15.80705855	CYT-High group
+Dis_15	2.01E+11	R07C01	58	M	Adenocarcinoma	No	Responder	Nivolumab	17.7	18.1	DCB	PR	1	1	SRR8526721_TPM	27.33	31.98	44.57	7.37	21.1	GSM3589677	RNA-seq_Dis_15	Dis_15	25.98670622	CYT-High group
+Dis_08	2.01E+11	R05C01	34	F	Adenocarcinoma	No	Non-responder	Nivolumab	1	1	NDB	PD	1	1	SRR8526732_TPM	0	0.83	0.2	0.05	0.45	GSM3589688	RNA-seq_Dis_08	Dis_08	0.621610811	CYT-Low group
+Dis_11	2.01E+11	R01C01	47	M	Adenocarcinoma	No	Non-responder	Nivolumab	2.1	3.1	NDB	PD	1	1	SRR8526719_TPM	1.34	0.61	1.53	0.19	0.76	GSM3589675	RNA-seq_Dis_11	Dis_11	0.690941387	CYT-Low group
+Dis_01	2.02E+11	R08C01	72	M	Squamous cell carcinoma	No	Non-responder	Nivolumab	0.5	1.1	NDB	PD	1	1	SRR8526717_TPM	0.68	0.82	1.78	0.95	0.9	GSM3589673	RNA-seq_Dis_01	Dis_01	0.869079973	CYT-Low group
+Dis_18	2.01E+11	R06C01	67	M	Squamous cell carcinoma	Yes	Non-responder	Nivolumab	0.5	1.7	NDB	PD	1	1	SRR8526728_TPM	3.71	1.12	2.77	0.33	1.85	GSM3589684	RNA-seq_Dis_18	Dis_18	1.449758601	CYT-Low group
+Dis_16	2.01E+11	R05C01	56	M	Adenocarcinoma	Yes	Non-responder	Nivolumab	3.6	10.2	NDB	PD	1	1	SRR8526723_TPM	1.81	1.39	1.42	0.23	1.68	GSM3589679	RNA-seq_Dis_16	Dis_16	1.538180744	CYT-Low group
+Dis_03	2.02E+11	R01C01	65	M	Squamous cell carcinoma	NA	Non-responder	Nivolumab	2.3	11.2	NDB	PD	1	1	SRR8526725_TPM	3.04	1.74	2.01	0.7	1.86	GSM3589681	RNA-seq_Dis_03	Dis_03	1.809005252	CYT-Low group
+Dis_09	2.01E+11	R02C01	61	M	Squamous cell carcinoma	NA	Non-responder	Nivolumab	0.7	1	NDB	PD	1	1	SRR8526729_TPM	4.04	2.91	3.35	0.9	1.35	GSM3589685	RNA-seq_Dis_09	Dis_09	1.992786993	CYT-Low group
+Dis_05	2.01E+11	R03C01	72	M	Adenocarcinoma	No	Non-responder	Nivolumab	2.8	9.6	NDB	PD	1	1	SRR8526730_TPM	2.61	1.81	5.32	1.17	2.81	GSM3589686	RNA-seq_Dis_05	Dis_05	2.265480082	CYT-Low group
+Dis_07	2.02E+11	R04C01	66	M	Squamous cell carcinoma	No	Non-responder	Nivolumab	1.1	3.5	NDB	PD	1	1	SRR8526731_TPM	3.81	3.4	3.45	0.36	3.28	GSM3589687	RNA-seq_Dis_07	Dis_07	3.349462643	CYT-High group
+Dis_12	2.01E+11	R05C01	65	M	Squamous cell carcinoma	No	Non-responder	Nivolumab	3.4	12.7	NDB	PD	1	1	SRR8526720_TPM	3.39	4.61	6.89	0.94	3.89	GSM3589676	RNA-seq_Dis_12	Dis_12	4.244761477	CYT-High group
+Dis_06	2.01E+11	R01C01	54	M	Adenocarcinoma	No	Non-responder	Nivolumab	0.8	0.8	NDB	PD	1	1	SRR8526727_TPM	24.31	5.44	6.01	0.25	3.72	GSM3589683	RNA-seq_Dis_06	Dis_06	4.508713786	CYT-High group
