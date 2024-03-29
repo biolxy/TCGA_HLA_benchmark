@@ -1,6 +1,6 @@
 # TCGA_HLA_benchmark
 
-Due to TCGA privacy concerns, the **password** for HLA allele data is provided only to researchers who have access to the primary sequence data from the TCGA. Please contact us at qiliu@tongji.edu.cn
+Due to TCGA privacy concerns, the **password** for HLA allele data is provided only to researchers who have access to the primary sequence data from the TCGA. Please contact us at haoye.ecust@gmail.com or qiliu@tongji.edu.cn
 
 ## software version
 
